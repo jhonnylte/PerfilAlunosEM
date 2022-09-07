@@ -1,2 +1,2 @@
-# Buscando os resultadod do Q-Seleção e armazenando em um arquivo Excel
+# Buscando os resultados do Q-Seleção e armazenando em um arquivo Excel
  
